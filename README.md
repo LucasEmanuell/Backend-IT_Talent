@@ -1,4 +1,4 @@
-# Backend-IT_Talent
+# Parte 2: Backend
 
 ## Build and Run OK
 ![Build and Run OK](https://github.com/LucasEmanuell/Backend-IT_Talent/raw/main/back.png)
